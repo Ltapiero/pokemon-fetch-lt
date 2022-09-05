@@ -16,7 +16,7 @@ function botonOprimido() {
 	carga.classList.remove("visible");
 	setTimeout(() => {
 		carga.classList.add("visible");
-	}, 800);
+	}, 900);
 	setTimeout(() => {
 		limpiarCampos();
 		buscar_pokemones();
