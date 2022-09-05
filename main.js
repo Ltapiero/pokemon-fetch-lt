@@ -20,7 +20,7 @@ function botonOprimido() {
 	setTimeout(() => {
 		limpiarCampos();
 		buscar_pokemones();
-	}, 400);
+	}, 200);
 }
 
 function limpiarCampos() {
